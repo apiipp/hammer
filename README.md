@@ -7,4 +7,6 @@ $ pkg install python
 $ git clonehttps://github.com/apiipp/hammer 
 $ ls
 $ cd hammer
-$ python2 ddos.py
+$ python mrbotax.py
+$ python3 mrbotax.py -s(target) -p80 -t135
+
